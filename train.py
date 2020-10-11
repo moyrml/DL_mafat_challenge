@@ -1,3 +1,5 @@
+import torch
+import torch.nn as nn
 
 
 def train_loop(model_folder, save_file, fold, epochs, model, train_loader, valid_loader, criterion, optimizer, lr_scheduler, output_progress = True, criterion_two = None):
