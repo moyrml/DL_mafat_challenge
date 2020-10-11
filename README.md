@@ -12,3 +12,7 @@ To use each file...
 
 LINK TO MAFAT DATA: https://drive.google.com/drive/u/0/folders/19gexnJM7dKhG1ILmjOQN7JlnoldA6L9n
 
+
+Moshe Yerachmiel: yerachmiel@mail.tau.ac.il
+Nicolas Lynn: nicolasalynn@gmail.com
+
