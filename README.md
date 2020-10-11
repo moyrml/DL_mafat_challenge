@@ -10,6 +10,9 @@ To use each file...
 
 -- cdcgan.py file is where the GAN used to generate fake images is located. 
 
+-- results_space.ipynb is where all the trained models can be tested on the test data.
+
+
 LINK TO MAFAT DATA: https://drive.google.com/drive/u/0/folders/19gexnJM7dKhG1ILmjOQN7JlnoldA6L9n
 
 
